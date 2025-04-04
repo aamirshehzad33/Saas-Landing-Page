@@ -1,70 +1,81 @@
-<div align="center">
-  <a href="https://github.com/karthikmudunuri/eldoraui">
+# 🌑 SaaS Landing Page Template
 
- <img src="https://github.com/user-attachments/assets/54c559b8-0dd1-4ef8-a3d0-06f5086224b0" alt="Logo" width="60" height="60">
-  </a>
-  <h1 align="center">Eldora UI</h1>
-  <p align="center">
-   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-100% open-source, and customizable.
-  </p>
-  <p>
-    
-   <a href="https://www.eldoraui.site/">Visit site</a>
-    ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Request Feature</a>
-  </p>
-</div>
+A modern **SaaS Landing Page** template with a sleek **dark theme**, built using the latest technologies including **Next.js 14**, **React**, **TailwindCSS**, and **Framer Motion**.
 
-<!-- ABOUT THE TEMPLATE -->
+---
 
-<div align="center mt-5">
+## 🚀 Features
 
- <img width="1420" alt="saas-landing" src="https://github.com/user-attachments/assets/fcaf6b8d-004b-41d5-a1f8-8b609d626950">
+- ⚙️ **Built with**:  
+  - Next.js 14
+  - React.js
+  - TypeScript
+  - TailwindCSS
+  - Shadcn/UI
+  - Framer Motion
+  - Eldora UI
 
- 
-</div>
+- 📱 **Fully Responsive** on all devices
+- 🌌 **Dark Theme** design
+- ⚡ Optimized for **Next.js** performance and **Vercel** deployment
+- 🎨 Beautiful UI with animations and reusable components
 
-# Saas Landing Page
+---
 
-Template for saas landing page with dark theme using Next.js 14, React, TailwindCSS, Framer motion
+## 📦 Tech Stack
 
-# Features
+| Technology     | Description                |
+|----------------|----------------------------|
+| Next.js 14     | React framework for SSR/SSG|
+| Tailwind CSS   | Utility-first CSS framework|
+| Shadcn/UI      | Accessible UI Components   |
+| Framer Motion  | Animation library for React|
+| TypeScript     | Typed JavaScript           |
+| Eldora UI      | Custom UI enhancements     |
 
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Eldora UI
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+---
 
-# Getting Started Locally
+## ScreenShot
 
-1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/karthikmudunuri/portfolio-template
-   ```
+![screencapture-localhost-3000-2025-04-04-12_18_58](https://github.com/user-attachments/assets/975a5ce7-a955-4ab1-a0a3-e56c435710fb)
 
-2. Move to the cloned directory
 
-   ```bash
-   cd portfolio-template
-   ```
+## 🛠️ Installation
 
-3. Install dependencies:
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/saas-landing-page.git
+cd saas-landing-page
+```
 
-   ```bash
-   npm install
-   ```
+2. **Install dependencies**
+```bash
+npm install
+# or
+yarn install
+```
 
-4. Start the local Server:
+3. **Start development server**
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-   ```bash
-   npm run dev
-   ```
+4. **Open in browser**
+```
+http://localhost:3000
+```
 
-5. Open the [Components](https://github.com/karthikmudunuri/saas-landing-page-template/tree/main/src/components) folder and make changes
+---
 
-# License
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss.
 
-Licensed under the [MIT license](https://github.com/karthikmudunuri/saas-landing-page-template/blob/main/LICENSE.md).
+---
+
+## 📜 License
+Released under the **MIT License**.
+
+---
